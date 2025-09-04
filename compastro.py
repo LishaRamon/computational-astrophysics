@@ -33,7 +33,7 @@ print(f"A ball dropped from {height}m takes {time:.2f} seconds to hit the ground
 
 
 
-
+# Gemini and Claude AI Used to assist learning
 # Argparse example: Run block by itself
 import argparse
 import math
