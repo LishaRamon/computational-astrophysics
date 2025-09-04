@@ -11,9 +11,9 @@ def time_to_floor(height, g=9.81):
 
 # Check # of arg
 if len(sys.argv) < 2:
-    print("Usage: python ball_drop.py <height> [gravity]")
-    print("Example: python ball_drop.py 10")
-    print("Example: python ball_drop.py 10 1.62")
+    print("Usage: codeastro.py <height> [gravity]")
+    print("Example: python codeastro.py 10")
+    print("Example: python codeastro.py 10 1.62")
     sys.exit(1)
 
 # Get height from command line
@@ -27,7 +27,7 @@ else:
 
 # Calculate and display result
 time = time_to_floor(height, gravity)
-print(f"A ball dropped from {height}m takes {time:.2f} seconds to hit the ground")"""
+print(f"A ball dropped from {height}m takes {time:.2f} seconds to hit the floor")"""
 
 
 
