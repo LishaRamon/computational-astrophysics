@@ -34,7 +34,7 @@ print(f"A ball dropped from {height}m takes {time:.2f} seconds to hit the ground
 
 
 
-# argparse example: Run block by itself
+# Argparse example: Run block by itself
 import argparse
 import math
 
