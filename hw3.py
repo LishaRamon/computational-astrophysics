@@ -105,4 +105,4 @@ def lagrange_l1():
     return r_l1
 
 # Run the calculation
-r_l1 = lagrange_l1()
+r_l1 = lagrange_l1() 
