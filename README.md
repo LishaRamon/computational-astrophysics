@@ -70,8 +70,8 @@ astropy # for FITS file handling
 ```
 
 ## Reference
-https://compmeth.commons.gc.cuny.edu/syllabus/ - Class Website
-https://github.com/ari-maller/comp_meth_notebooks/tree/main - Reference Examples
+- https://compmeth.commons.gc.cuny.edu/syllabus/ - Class Website
+- https://github.com/ari-maller/comp_meth_notebooks/tree/main - Reference Examples
 
 ## Author
 Lisha Ramon
