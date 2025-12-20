@@ -1,7 +1,29 @@
 """
-Interactive Stellar Flyby Simulator
+Interactive Stellar Flyby Simulator (Practice 2: Part 1 as a full project)
 Author: Lisha Ramon
 Computational Astrophysics Final Project
+
+Project Script Run Instructions:
+Project Practice 1 (All simulation+ visualization inone script):
+- Run stellar_flyby_simulation.py (shorter version of project)
+
+Practice 2 (Multiple scripts with interactive inputs and visualizations):
+1. Run `interactive_simulator.py`
+2. Run `enhanced_interactive_visualizations.py`
+3. Run `debris_disk_simulation.py` for debris disk simulation
+
+Results: View html by copying path of html output files into URL browser
+
+Run Time Estimates: Under 30 minutes 
+Run Time Estimates for Practice 2: About 2 hours total for full simulation and visualizations (depending on complexity)
+
+In Class Presentation HTML URL links:
+Practice 2 Main Simulation Dashboard: file:///C:/Users/ramon/computational-astrophysics/simulation_results.html
+Video Simulation: file:///C:/Users/ramon/computational-astrophysics/flyby_demo_animated.html
+Interactive version of Video Simulation: file:///C:/Users/ramon/computational-astrophysics/debris_disk_3d.html
+Debris Disk Comparison Before/After: file:///C:/Users/ramon/computational-astrophysics/flyby_demo_debris.html
+Simulation Orbit/Start/End Toggle Feaure: file:///C:/Users/ramon/computational-astrophysics/interactive_3d.html
+3D Disk Disruption Toggle Visualization: file:///C:/Users/ramon/computational-astrophysics/debris_disk_3d.html
 
 A complete simulation tool with user-configurable parameters
 
